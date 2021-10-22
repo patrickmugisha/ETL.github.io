@@ -1,4 +1,4 @@
-# ETL.github.io
+# ETL (Extract, Transform, Loading) techniques
 
 To see the contents of this project, please click this link https://patrickmugisha.github.io/ETL.github.io/
 
